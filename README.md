@@ -19,9 +19,9 @@ The game is quite simple, with players creating their own pizzas and selecting t
 
 
 # BOM
-1x Orpheus Pico
-1x HW-040 Rotary Encoder Switch
-1x ILI9341 TFT Screen
-1x 3D Printed Case with 2 parts (only one was printed in time)
-1x PCB milled by @apr on Slack
+- 1x Orpheus Pico
+- 1x HW-040 Rotary Encoder Switch
+- 1x ILI9341 TFT Screen
+- 1x 3D Printed Case with 2 parts (only one was printed in time)
+- 1x PCB milled by @apr on Slack
 
