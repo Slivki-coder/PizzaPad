@@ -3,7 +3,7 @@ The PizzaPad is a small gadget designed to let you make pizza! It has a game tha
 
 The gadget was designed at Hack Club's Undercity Hackathon, held at Github HQ in San Francisco from July 11-14. 
 
-Here's a link to our demo. 
+[Here]{https://youtu.be/aZLYuFsbn9c}'s a link to our demo. 
 
 <img src="photos/pizzapad.jpg">
 
