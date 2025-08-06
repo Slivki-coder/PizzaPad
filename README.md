@@ -5,15 +5,15 @@ The gadget was designed at Hack Club's Undercity Hackathon, held at Github HQ in
 
 Here's a link to our demo. 
 
-<img src="assets/pizzapad.jpg">
+<img src="photos/pizzapad.jpg">
 
 # PCB
 We decided that since this was a handheld device, we should try to make it as compact as possible and that'd be best done with a PCB. I designed a PCB in KiCAD within the constraints of the mill at Undercity (1 layer, 0.5 mm minimum trace, 0.5 mm minimum distance between traces, etc.). Here's the design of the milled PCB!
 
-<img src="assets/pizzapad_pcb.jpg">
+<img src="photos/pizzapad_pcb.jpg">
 
 And here's the schematic!
-<img src="assets/schematic.png">
+<img src="photos/schematic.png">
 
 # CAD
 Oliver designed a case that would house the PCB, Screen, and Rotary Encoder. It's basically a little smaller than the size of the original 2DS. 
