@@ -14,16 +14,16 @@ import vectorio
 displayio.release_displays()
 
 # pin setup - screen
-spi = busio.SPI(clock=board.D8 , MOSI=board.D10)
-tft_cs = board.D7
-tft_dc = board.D6
-tft_rst = board.D5
+spi = busio.SPI(clock=board.GP21 , MOSI=board.GP19)
+tft_cs = board.GP3
+tft_dc = board.GP17
+tft_rst = board.GP16
 
 # pin setup - encoder
-encoder = rotaryio.IncrementalEncoder(board.D1, board.D2)
+encoder = rotaryio.IncrementalEncoder(board.GP15, board.GP14)
 last_position = 0
 
-button = digitalio.DigitalInOut(board.D4)
+button = digitalio.DigitalInOut(board.GP13)
 button.direction = digitalio.Direction.INPUT
 button.pull = digitalio.Pull.UP  
 
